@@ -1,0 +1,547 @@
+<!DOCTYPE html><html lang="pt">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Pansofia Integral Izunómica</title><style>
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.7;
+    background: #f5f7f9;
+    color: #222;
+}
+
+header {
+    background: linear-gradient(135deg, #173b57, #286b70);
+    color: white;
+    text-align: center;
+    padding: 60px 20px;
+}
+
+header h1 {
+    font-size: 2.2rem;
+    margin-bottom: 15px;
+}
+
+header p {
+    max-width: 850px;
+    margin: auto;
+    font-size: 1.05rem;
+}
+
+.container {
+    width: 92%;
+    max-width: 1100px;
+    margin: 40px auto;
+}
+
+.intro {
+    background: white;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+    margin-bottom: 35px;
+}
+
+h2 {
+    color: #173b57;
+    margin-bottom: 15px;
+}
+
+h3 {
+    color: #286b70;
+    margin-bottom: 10px;
+}
+
+h4 {
+    color: #173b57;
+    margin-bottom: 8px;
+}
+
+.module {
+    background: white;
+    margin: 30px 0;
+    border-radius: 16px;
+    overflow: hidden;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+}
+
+.module-header {
+    padding: 25px;
+    background: #173b57;
+    color: white;
+}
+
+.module-header h2 {
+    color: white;
+    margin-bottom: 5px;
+}
+
+.module-content {
+    padding: 25px;
+}
+
+.block {
+    border-left: 5px solid #286b70;
+    background: #f8fafb;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 0 10px 10px 0;
+}
+
+.fields {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 15px;
+    margin-top: 15px;
+}
+
+.field {
+    background: white;
+    padding: 18px;
+    border-radius: 10px;
+    border: 1px solid #dce3e7;
+}
+
+.field strong {
+    color: #286b70;
+    display: block;
+    margin-bottom: 7px;
+}
+
+.structure {
+    background: #eaf2f3;
+    padding: 25px;
+    border-radius: 15px;
+    margin: 35px 0;
+}
+
+.structure ul {
+    list-style: none;
+    margin-top: 15px;
+}
+
+.structure li {
+    padding: 8px 0;
+}
+
+.role {
+    background: white;
+    padding: 30px;
+    margin: 30px 0;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+}
+
+.highlight {
+    background: #173b57;
+    color: white;
+    padding: 30px;
+    border-radius: 15px;
+    margin: 30px 0;
+}
+
+.highlight h2 {
+    color: white;
+}
+
+.quote {
+    border-left: 5px solid #d0a84b;
+    padding: 20px;
+    margin: 20px 0;
+    font-style: italic;
+    background: #fffaf0;
+}
+
+.signature {
+    text-align: center;
+    padding: 35px 20px;
+    background: #173b57;
+    color: white;
+}
+
+.signature strong {
+    display: block;
+    margin-top: 10px;
+    font-size: 1.1rem;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background: #102b40;
+    color: #ddd;
+    font-size: 0.9rem;
+}
+
+@media (max-width: 600px) {
+    header h1 {
+        font-size: 1.7rem;
+    }
+
+    .container {
+        width: 94%;
+    }
+
+    .intro,
+    .module-content,
+    .role {
+        padding: 20px;
+    }
+}
+</style></head><body><header>
+    <h1>PANSOFIA INTEGRAL IZUNÓMICA</h1>
+    <p>
+        Um sistema integral de conhecimento, formação e desenvolvimento
+        do ser humano e da sociedade.
+    </p>
+</header><main class="container"><section class="intro">
+    <h2>Introdução</h2><p>
+    A <strong>Pansofia Integral Izunómica</strong> é uma proposta de
+    conhecimento integral que procura compreender o ser humano,
+    a realidade, a natureza, a sociedade e o propósito da existência
+    de maneira integrada.
+</p>
+
+<p>
+    A Pansofia procura superar a fragmentação do conhecimento,
+    estabelecendo relações entre as dimensões espiritual, humana,
+    natural, social, cultural e política da existência.
+</p>
+
+<p>
+    A sua estrutura está organizada em
+    <strong>Módulos, Blocos e Campos de estudo</strong>,
+    formando um percurso que parte da compreensão do Ser,
+    passa pela compreensão da realidade e chega à organização
+    consciente da vida coletiva.
+</p>
+
+</section><!-- MÓDULO 1 --><section class="module"><div class="module-header">
+    <h2>MÓDULO I — ONTOMETRIA</h2>
+    <p>Estudo da dimensão do Ser</p>
+</div>
+
+<div class="module-content">
+
+    <p>
+        A <strong>Ontometria</strong> constitui a base da formação
+        pansófica. Seu objeto central é o Ser: sua origem, natureza,
+        consciência, propósito e desenvolvimento.
+    </p>
+
+    <!-- BLOCO 1 -->
+
+    <div class="block">
+
+        <h3>BLOCO 1 — TELOSOFIA</h3>
+
+        <p>
+            Estudo da dimensão superior do Ser, sua relação com Deus,
+            a criação, a realidade divina e o propósito da existência.
+        </p>
+
+        <div class="fields">
+
+            <div class="field">
+                <strong>Teosofia</strong>
+                Estudo de Deus, da criação e da realidade divina.
+            </div>
+
+            <div class="field">
+                <strong>Semiótica</strong>
+                Estudo dos sinais, símbolos e significados pelos quais
+                o ser humano interpreta e comunica a realidade.
+            </div>
+
+        </div>
+    </div>
+
+
+    <!-- BLOCO 2 -->
+
+    <div class="block">
+
+        <h3>BLOCO 2 — MENTORIA</h3>
+
+        <p>
+            Estudo da formação e do acompanhamento do ser humano
+            em seu processo de desenvolvimento.
+        </p>
+
+        <div class="fields">
+
+            <div class="field">
+                <strong>Teodidáctica</strong>
+                Educação orientada pelos princípios divinos e pelo
+                processo de formação para a messianidade.
+            </div>
+
+            <div class="field">
+                <strong>Sonengogia</strong>
+                Acompanhamento do Sonen, envolvendo dimensões
+                psicológicas, sociais, morais, relacionais,
+                oratórias e de comunicação assertiva.
+            </div>
+
+        </div>
+    </div>
+
+
+    <!-- BLOCO 3 -->
+
+    <div class="block">
+
+        <h3>BLOCO 3 — DIVILANDÉTICA</h3>
+
+        <p>
+            Estudo da transformação interior, da fé, do caráter
+            e da manifestação do indivíduo na vida.
+        </p>
+
+        <div class="fields">
+
+            <div class="field">
+                <strong>Filopistia</strong>
+                Estudo do amor pela fé e pela confiança consciente.
+            </div>
+
+            <div class="field">
+                <strong>Makotologia</strong>
+                Estudo do Makoto, da pureza de caráter e do
+                aprimoramento da personalidade e da aura.
+            </div>
+
+        </div>
+    </div>
+
+</div>
+
+</section><!-- MÓDULO 2 --><section class="module"><div class="module-header">
+    <h2>MÓDULO II — IZUNOMETRIA</h2>
+    <p>Estudo da ordem, das relações e das manifestações da realidade</p>
+</div>
+
+<div class="module-content">
+
+    <p>
+        A <strong>Izunometria</strong> procura compreender como os
+        diferentes elementos da realidade se relacionam,
+        desenvolvem-se e manifestam-se dentro de uma ordem integrada.
+    </p>
+
+    <div class="block">
+
+        <h3>BLOCO — IZUNOMETRIA</h3>
+
+        <div class="fields">
+
+            <div class="field">
+                <strong>Genesofia</strong>
+                Estudo da origem, geração, formação e desenvolvimento
+                dos seres e fenômenos.
+            </div>
+
+            <div class="field">
+                <strong>Dinamosofia</strong>
+                Estudo das forças, movimentos, transformações e
+                dinâmicas que atuam na realidade.
+            </div>
+
+            <div class="field">
+                <strong>Johreignoses</strong>
+                Estudo do Johrei enquanto conhecimento e prática
+                relacionada à purificação, harmonização e
+                aprimoramento da vida.
+            </div>
+
+            <div class="field">
+                <strong>Toposofia</strong>
+                Estudo do espaço, dos lugares, dos ambientes e da
+                relação entre o ser e o meio em que vive.
+            </div>
+
+            <div class="field">
+                <strong>Cronosofia</strong>
+                Estudo do tempo, dos ciclos, dos processos históricos
+                e do desenvolvimento da realidade ao longo do tempo.
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+</section><!-- MÓDULO 3 --><section class="module"><div class="module-header">
+    <h2>MÓDULO III — DIVILÂNDIA</h2>
+    <p>Estudo da organização da vida coletiva</p>
+</div>
+
+<div class="module-content">
+
+    <p>
+        A <strong>Divilândia</strong> representa a dimensão social,
+        política e civilizacional da Pansofia Integral: a busca por
+        uma sociedade organizada segundo princípios de justiça,
+        educação, responsabilidade, harmonia e respeito às leis
+        da criação e da natureza.
+    </p>
+
+    <div class="block">
+
+        <h3>BLOCO — TEOPOLITOLOGIA</h3>
+
+        <p>
+            A <strong>Teopolitologia</strong> estuda a relação entre
+            princípios superiores da existência e a organização
+            política e social.
+        </p>
+
+        <div class="fields">
+
+            <div class="field">
+                <strong>Política</strong>
+                Organização e administração consciente da sociedade.
+            </div>
+
+            <div class="field">
+                <strong>Justiça</strong>
+                Estabelecimento da ordem, dos direitos, deveres e
+                princípios de justiça.
+            </div>
+
+            <div class="field">
+                <strong>Educação</strong>
+                Formação integral do indivíduo e do cidadão.
+            </div>
+
+            <div class="field">
+                <strong>Arte</strong>
+                Expressão da beleza, da criatividade e dos valores
+                humanos na civilização.
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+</section><!-- ESTRUTURA --><section class="structure"><h2>A estrutura da Pansofia Integral Izunómica</h2>
+
+<ul>
+    <li>🔹 <strong>Módulo I — Ontometria</strong> → Telosofia, Mentoria e Divilandética</li>
+    <li>🔹 <strong>Módulo II — Izunometria</strong> → Genesofia, Dinamosofia, Johreignoses, Toposofia e Cronosofia</li>
+    <li>🔹 <strong>Módulo III — Divilândia</strong> → Teopolitologia → Política, Justiça, Educação e Arte</li>
+</ul>
+
+<p style="margin-top:20px;">
+    <strong>Do Ser → às relações da realidade → à organização da sociedade.</strong>
+</p>
+
+</section><!-- SOCIEDADE PANSÓFICA --><section class="role"><h2>A Sociedade Pansófica</h2>
+
+<p>
+    A <strong>Sociedade Pansófica</strong> é a unidade responsável
+    pelo desenvolvimento, organização, investigação, divulgação
+    e preservação da Pansofia Integral Izunómica.
+</p>
+
+<p>
+    É importante distinguir:
+</p>
+
+<div class="quote">
+    <strong>Pansofia Integral Izunómica = conhecimento.</strong>
+    <br><br>
+    <strong>Sociedade Pansófica = unidade responsável pelo
+    desenvolvimento desse conhecimento.</strong>
+</div>
+
+<p>
+    A Sociedade promove estudos, pesquisas, reuniões,
+    videoconferências, entrevistas, artigos, vídeos, áudios,
+    projetos e outras iniciativas destinadas ao desenvolvimento
+    e divulgação do conhecimento pansófico.
+</p>
+
+<p>
+    Entre seus objetivos está também a construção das bases
+    necessárias para a futura <strong>Faculdade Pansófica Messias</strong>.
+</p>
+
+</section><!-- MENTOR --><section class="role"><h2>O Mentor</h2>
+
+<p>
+    O <strong>Mentor</strong> exerce uma função de orientação,
+    preservação e desenvolvimento do pensamento pansófico.
+</p>
+
+<p>
+    Sua responsabilidade não se limita à administração.
+    O Mentor orienta o desenvolvimento da Sociedade Pansófica,
+    acompanha a evolução do conhecimento e contribui para a
+    formação dos futuros Pansofistas.
+</p>
+
+<p>
+    No projeto institucional, o Mentor é também o
+    <strong>idealizador e orientador da Faculdade Pansófica Messias</strong>,
+    cuja formação terá como fundamento principal a Ontometria.
+</p>
+
+</section><!-- FACULDADE --><section class="highlight"><h2>Faculdade Pansófica Messias</h2>
+
+<p>
+    A Faculdade Pansófica Messias constitui a unidade formativa
+    destinada ao estudo, ensino, investigação e aplicação da
+    Pansofia Integral Izunómica.
+</p>
+
+<p style="margin-top:15px;">
+    Sua formação busca preparar pessoas capazes de compreender
+    o Ser, orientar processos de desenvolvimento humano e
+    contribuir para uma sociedade mais consciente e harmoniosa.
+</p>
+
+</section><!-- CONCLUSÃO --><section class="intro"><h2>Conclusão</h2>
+
+<p>
+    A Pansofia Integral Izunómica propõe um caminho de conhecimento
+    que começa no indivíduo, amplia-se para a compreensão da
+    realidade e culmina na organização consciente da vida coletiva.
+</p>
+
+<div class="quote">
+    <strong>Ontometria</strong> — conhecer e formar o Ser.
+    <br><br>
+    <strong>Izunometria</strong> — compreender as relações e a
+    ordem da realidade.
+    <br><br>
+    <strong>Divilândia</strong> — aplicar esse conhecimento na
+    construção da sociedade.
+</div>
+
+<p>
+    Seu propósito é promover uma consciência capaz de reconhecer
+    a unidade existente entre o ser humano, a natureza, a sociedade
+    e os princípios da criação.
+</p>
+
+</section></main><section class="signature"><p>
+    “Um caminho em busca de sabedoria, a fim de despertar
+    o verdadeiro amor pela vida.”
+</p>
+
+<strong>O idealizador e mentor Miguel Lopes Geraldo Fukiau</strong>
+<strong>O Mentor Miguel Fukiau</strong>
+
+</section><footer>
+    © 2026 Sociedade Pansófica — Pansofia Integral Izunómica
+</footer></body>
+</html>
